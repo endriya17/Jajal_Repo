@@ -1,5 +1,10 @@
 Ini tulisan baris pertama
 Ini tambahan dari baris pertama 
+
+Baris ini di tambahkan lagi untuk edit
+Lalu baris ini di tambahkan lagi
+Di tambakan lagi oleh yang punya
+
 Mulai Baris ini di edit oleh Endriya K
 File yang di edit berisi tentang:
 *Rencana Pembuatan Web
